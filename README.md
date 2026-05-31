@@ -1,4 +1,4 @@
-# Conditional Statements in Python: Even or Odd Checker
+# Ex-1:Conditional Statements in Python: Even or Odd Checker
 
 ## Name: INDHUJA.K
 ## Register no: 212225040133
@@ -31,7 +31,7 @@ Thus, the program has been excecuted successfully.
 
 
 
-# Ex 1:Datatypes-Boolean Expression Evaluation in Python
+# Ex-2:Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
@@ -66,7 +66,7 @@ print("d:", d)
 Thus, the program has been excecuted successfully.
 
 
-# Ex-2 Datatypes-Character Literal in Python
+# Ex-3:Datatypes-Character Literal in Python
 
 ## 🎯 Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
@@ -88,7 +88,7 @@ print('a')
 Thus, the program has been excecuted successfully.
 
 
-# Ex-3 Datatypes-Complex Number Creation in Python
+# Ex-4: Datatypes-Complex Number Creation in Python
 
 ## 🎯 Aim
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
@@ -120,7 +120,7 @@ print("Imaginary part:", x.imag)
 Thus, the program has been excecuted successfully.
 
 
-# Ex-4 Datatypes-Read and Print a String in Python
+# Ex-5: Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
