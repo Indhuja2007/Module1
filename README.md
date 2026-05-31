@@ -60,6 +60,7 @@ print("d:", d)
 ```
 ## Output
 
+<img width="606" height="637" alt="image" src="https://github.com/user-attachments/assets/325e9f8c-aa21-4a0c-9638-f73e8e4e0da1" />
 
 ## Result
 Thus, the program has been excecuted successfully.
@@ -81,6 +82,7 @@ print('a')
 ```
 ## Output
 
+<img width="564" height="297" alt="image" src="https://github.com/user-attachments/assets/b0cef8a3-5a99-46ab-af5b-9c6116444ef6" />
 
 ## Result
 Thus, the program has been excecuted successfully.
@@ -112,6 +114,7 @@ print("Imaginary part:", x.imag)
 ```
 ## Output
 
+<img width="850" height="445" alt="image" src="https://github.com/user-attachments/assets/b4ecc60c-566f-41fe-af34-fdcff269b4c8" />
 
 ## Result
 Thus, the program has been excecuted successfully.
@@ -134,6 +137,7 @@ print(men_stepped_on_the_moon)
 ```
 ## Output
 
+<img width="1141" height="217" alt="image" src="https://github.com/user-attachments/assets/3c0d2fba-55cc-4a37-9442-f47f3d088134" />
 
 ## Result
 Thus, the program has been excecuted successfully.
